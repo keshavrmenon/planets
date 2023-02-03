@@ -19,9 +19,6 @@ class positions{
   positions(){
     pos=NULL;
   }
-  ~positions(){
-    deallocate();
-  }
   
 };
 
